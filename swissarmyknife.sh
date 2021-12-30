@@ -1,5 +1,6 @@
 #!/bin/bash
 
+
 progName="Swiss Army Knife"
 progOwner="Guilherme Cunha"
 progVersion="1.0.0"
